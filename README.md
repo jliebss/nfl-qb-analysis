@@ -1,4 +1,4 @@
-# nfl-data
+# nfl-qb-analysis
 
 This project aims to analyze the top 40 quarterbacks in the NFL based on four key metrics: Expected Points Added Per Play, Completion Percentage Over Expectation, Yards Per Play, and Touchdowns Per Play / Turnovers Per Play. Traditional stats such as passing touchdowns, total yards, and completion percentage can be misleading as they are very dependent on the situation, so these stats will hopefully provide a better analysis. It is a tight MVP race this year with Aaron Rodgers and Pat Mahomes the favorites and Josh Allen surging. Let's see who the stats favor.
 
